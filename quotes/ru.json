@@ -1,0 +1,12 @@
+{
+  "positive": [
+    {"text": "Каждый день — шанс стать лучше.", "author": "MotivationHub"},
+    {"text": "Счастье — это выбор.", "author": "MotivationHub"}
+  ],
+  "love": [
+    {"text": "Любовь делает сильнее.", "author": "MotivationHub"}
+  ],
+  "strength": [
+    {"text": "Падать не страшно — страшно не вставать.", "author": "MotivationHub"}
+  ]
+}

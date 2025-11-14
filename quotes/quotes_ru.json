@@ -1,0 +1,22 @@
+{
+  "all": [
+    { "text": "Каждый день — новый шанс стать лучше.", "author": "MotivationHub" },
+    { "text": "Счастье — это выбор, а не результат.", "author": "MotivationHub" },
+    { "text": "Любовь делает сильнее, даже если больно.", "author": "MotivationHub" },
+    { "text": "Не бойся падать — бойся не вставать.", "author": "MotivationHub" },
+    { "text": "Жизнь — не проблема, которую нужно решить, а реальность, которую нужно прожить.", "author": "MotivationHub" }
+  ],
+  "positive": [
+    { "text": "Каждый день — новый шанс стать лучше.", "author": "MotivationHub" },
+    { "text": "Счастье — это выбор, а не результат.", "author": "MotivationHub" }
+  ],
+  "love": [
+    { "text": "Любовь делает сильнее, даже если больно.", "author": "MotivationHub" }
+  ],
+  "strength": [
+    { "text": "Не бойся падать — бойся не вставать.", "author": "MotivationHub" }
+  ],
+  "life": [
+    { "text": "Жизнь — не проблема, которую нужно решить, а реальность, которую нужно прожить.", "author": "MotivationHub" }
+  ]
+}

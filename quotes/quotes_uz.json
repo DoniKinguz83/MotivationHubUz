@@ -1,0 +1,22 @@
+{
+  "all": [
+    { "text": "Har bir kun — yaxshiroq bo‘lish uchun yangi imkon.", "author": "MotivationHub" },
+    { "text": "Baxt — bu tanlov, natija emas.", "author": "MotivationHub" },
+    { "text": "Sevgi og‘riqli bo‘lsa ham, kuch bag‘ishlaydi.", "author": "MotivationHub" },
+    { "text": "Yiqlishdan qo‘rqma — turmaslikdan qo‘rq.", "author": "MotivationHub" },
+    { "text": "Hayot bu yechim emas, yashash uchun haqiqatdir.", "author": "MotivationHub" }
+  ],
+  "positive": [
+    { "text": "Har bir kun — yaxshiroq bo‘lish uchun yangi imkon.", "author": "MotivationHub" },
+    { "text": "Baxt — bu tanlov, natija emas.", "author": "MotivationHub" }
+  ],
+  "love": [
+    { "text": "Sevgi og‘riqli bo‘lsa ham, kuch bag‘ishlaydi.", "author": "MotivationHub" }
+  ],
+  "strength": [
+    { "text": "Yiqlishdan qo‘rqma — turmaslikdan qo‘rq.", "author": "MotivationHub" }
+  ],
+  "life": [
+    { "text": "Hayot bu yechim emas, yashash uchun haqiqatdir.", "author": "MotivationHub" }
+  ]
+}

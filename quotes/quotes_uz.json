@@ -1,51 +1,73 @@
-[
-  {"text": "Har tong — yangi sahifa. Uni chiroyli yoz.", "author": "Motivatsiya"},
-  {"text": "Mukammal bo‘lish shart emas — chin bo‘lishing yetarli.", "author": "Motivatsiya"},
-  {"text": "O‘ylaganingdan ham kuchliroqsan.", "author": "Motivatsiya"},
-  {"text": "Har bir kichik qadam ham — g‘alaba.", "author": "Motivatsiya"},
-  {"text": "Muvaffaqiyat taslim bo‘lmaganlarga keladi.", "author": "Motivatsiya"},
-  {"text": "Shubhalar orzularni xatolardan ko‘proq o‘ldiradi.", "author": "Motivatsiya"},
-  {"text": "Qiyinchilik — o‘sish belgisi.", "author": "Motivatsiya"},
-  {"text": "Eng to‘g‘ri vaqt — hozir.", "author": "Motivatsiya"},
-  {"text": "Energiya natijani tortadi.", "author": "Motivatsiya"},
-  {"text": "Jasorat — qo‘rquvga qaramay harakat qilishdir.", "author": "Motivatsiya"},
-  {"text": "Kelajakni bashorat qilishning eng yaxshi yo‘li — uni yaratish.", "author": "Motivatsiya"},
-  {"text": "Xatolar — darslar, mag‘lubiyat emas.", "author": "Motivatsiya"},
-  {"text": "Harakatni muhabbat bilan qil — natija o‘zi keladi.", "author": "Motivatsiya"},
-  {"text": "Asosiysi — to‘xtab qolmaslik.", "author": "Motivatsiya"},
-  {"text": "Bugungi qiyin narsa — ertangi kuching bo‘ladi.", "author": "Motivatsiya"},
-  {"text": "Oldinga yurayotgan odam — yutayotgan odam.", "author": "Motivatsiya"},
-  {"text": "Muammolar seni yangi narsaga o‘rgatadi.", "author": "Motivatsiya"},
-  {"text": "To‘g‘ri yo‘l seni yaxshiroq qiladi.", "author": "Motivatsiya"},
-  {"text": "Sokinlik — eng kuchli qarorlarning manbai.", "author": "Motivatsiya"},
-  {"text": "Ba’zida yo‘qolishing — o‘zingni topishing uchun kerak.", "author": "Motivatsiya"},
-  {"text": "Agar orzu muhim bo‘lsa — yo‘l topiladi.", "author": "Motivatsiya"},
-  {"text": "Bugungi harakat — ertangi natija.", "author": "Motivatsiya"},
-  {"text": "Kichikdan boshlang, kattani o‘ylang.", "author": "Motivatsiya"},
-  {"text": "Har kun — yangi imkoniyat.", "author": "Motivatsiya"},
-  {"text": "Avval qiyin bo‘ladi, keyin esa go‘zal.", "author": "Motivatsiya"},
-  {"text": "Baxt — ichingda. Uni tashqaridan qidirmang.", "author": "Motivatsiya"},
-  {"text": "Boshqalar bilan solishtirishni to‘xtatsang — yashay boshlaysan.", "author": "Motivatsiya"},
-  {"text": "Yaxshilik qil — hatto hech kim ko‘rmasa ham.", "author": "Motivatsiya"},
-  {"text": "Muhabbat — eng katta kuchdir.", "author": "Motivatsiya"},
-  {"text": "Sabr — katta o‘zgarishlarning kaliti.", "author": "Motivatsiya"},
-  {"text": "Eski eshiklarni yoping, yangi yo‘llar ochiladi.", "author": "Motivatsiya"},
-  {"text": "Eng yaxshisiga loyiqsan — davom et.", "author": "Motivatsiya"},
-  {"text": "Ichki yorug‘lik tashqi zulmatdan kuchli.", "author": "Motivatsiya"},
-  {"text": "Ko‘ngli nozik odamlar eng kuchli bo‘ladi.", "author": "Motivatsiya"},
-  {"text": "O‘zing qoyil qoladigan inson bo‘l.", "author": "Motivatsiya"},
-  {"text": "Vaqting — erkinliging. Uni bekorga sarflama.", "author": "Motivatsiya"},
-  {"text": "Ba’zida qo‘yib yuborish — yaxshilik uchun joy ochishdir.", "author": "Motivatsiya"},
-  {"text": "Katta o‘zgarishlar kichik qarorlardan boshlanadi.", "author": "Motivatsiya"},
-  {"text": "O‘zingga ishonsang — dunyo ham ishonadi.", "author": "Motivatsiya"},
-  {"text": "Fikrlaring chiroyli bo‘lsa — hayoting ham shunday bo‘ladi.", "author": "Motivatsiya"},
-  {"text": "Yangi boshlash uchun hech qachon kech emas.", "author": "Motivatsiya"},
-  {"text": "Har kuni o‘zingni biroz yaxshila.", "author": "Motivatsiya"},
-  {"text": "Qo‘rquvdan emas, muhabbatdan kelib chiqib harakat qil.", "author": "Motivatsiya"},
-  {"text": "O‘zgarish bo‘lishni xohlasang — o‘zing o‘zgar.", "author": "Motivatsiya"},
-  {"text": "Samimiyat — kuch beradi.", "author": "Motivatsiya"},
-  {"text": "Dam olishni o‘rgan — bu taslim bo‘lish emas.", "author": "Motivatsiya"},
-  {"text": "Yolg‘iz yurishdan qo‘rqma — joyingda turishdan qo‘rq.", "author": "Motivatsiya"},
-  {"text": "Ruhiy tinchlik — eng qimmat boylik.", "author": "Motivatsiya"},
-  {"text": "Hayotni sev — hayot seni sevadi.", "author": "Motivatsiya"}
-]
+{
+  "positive": [
+    {"text": "Har kun — yangi imkoniyat.", "author": "Motivatsiya"},
+    {"text": "Tabassum kayfiyatni tez o‘zgartiradi.", "author": "Motivatsiya"},
+    {"text": "Ijobiy fikr — ijobiy hayot.", "author": "Motivatsiya"},
+    {"text": "Dunyo sen o‘zgarganda o‘zgaradi.", "author": "Motivatsiya"},
+    {"text": "Yorug‘lik ichingda — uni so‘ndirma.", "author": "Motivatsiya"},
+    {"text": "Eng oddiy kun ham mo‘jiza bo‘lishi mumkin.", "author": "Motivatsiya"}
+  ],
+
+  "love": [
+    {"text": "Sevgi — dunyoni chiroyli qiladi.", "author": "Motivatsiya"},
+    {"text": "Yurak biladigan narsani aql ba’zan tushunmaydi.", "author": "Motivatsiya"},
+    {"text": "Samimiyat har qanday devorni buzadi.", "author": "Motivatsiya"},
+    {"text": "Muhabbat — eng kuchli til.", "author": "Motivatsiya"},
+    {"text": "Bir so‘z — butun qalbni davolashi mumkin.", "author": "Motivatsiya"},
+    {"text": "Mehr berilgan joyda hayot gullaydi.", "author": "Motivatsiya"}
+  ],
+
+  "self_love": [
+    {"text": "O‘zingni qadrlasang — boshqalar ham qadrlaydi.", "author": "Motivatsiya"},
+    {"text": "Senga g‘amxo‘rlik kerak — bunga loyiqsan.", "author": "Motivatsiya"},
+    {"text": "O‘zingni yaxshi ko‘r — bu kuchdir.", "author": "Motivatsiya"},
+    {"text": "O‘zing yetarlicha yaxshisan.", "author": "Motivatsiya"},
+    {"text": "Qadring boshqalarning fikri bilan o‘lchanmaydi.", "author": "Motivatsiya"},
+    {"text": "Ruhiy salomatlik — birinchi o‘rinda bo‘lishi kerak.", "author": "Motivatsiya"}
+  ],
+
+  "strength": [
+    {"text": "Senga kerak bo‘lgan kuch ichingda.", "author": "Motivatsiya"},
+    {"text": "Og‘riq vaqtinchalik, kuch — abadiy.", "author": "Motivatsiya"},
+    {"text": "Qiyinchiliklar seni kuchli qiladi.", "author": "Motivatsiya"},
+    {"text": "Har qulash — yana turish imkoniyati.", "author": "Motivatsiya"},
+    {"text": "Sabr — kuchning bir ko‘rinishi.", "author": "Motivatsiya"},
+    {"text": "Bahona emas, sabab izla.", "author": "Motivatsiya"}
+  ],
+
+  "life": [
+    {"text": "Hayot — yo‘l, manzil emas.", "author": "Motivatsiya"},
+    {"text": "To‘xtash ham ba’zan rivojdir.", "author": "Motivatsiya"},
+    {"text": "Onlarni qadrlang, ular qaytmaydi.", "author": "Motivatsiya"},
+    {"text": "Har kun yangi sahifa.", "author": "Motivatsiya"},
+    {"text": "Vaqt — eng qimmat boylik.", "author": "Motivatsiya"},
+    {"text": "Hayot saboq orqali o‘rgatadi.", "author": "Motivatsiya"}
+  ],
+
+  "calm": [
+    {"text": "Sokinlik — ruhning dori.", "author": "Motivatsiya"},
+    {"text": "Nazorat — chuqur nafasdan boshlanadi.", "author": "Motivatsiya"},
+    {"text": "Ba’zan eng to‘g‘ri qaror — kutish.", "author": "Motivatsiya"},
+    {"text": "Ichki tinchlik — haqiqiy boylik.", "author": "Motivatsiya"},
+    {"text": "Tinch yurak — baxtli hayat.", "author": "Motivatsiya"},
+    {"text": "Shoshma — osuda qadam eng mustahkamidir.", "author": "Motivatsiya"}
+  ],
+
+  "relationships": [
+    {"text": "Hurmat — munosabatlarning poydevori.", "author": "Motivatsiya"},
+    {"text": "Eshitish — sevishning bir qismi.", "author": "Motivatsiya"},
+    {"text": "Ishonch vaqt bilan quriladi.", "author": "Motivatsiya"},
+    {"text": "Samimiyat yaqinlikni kuchaytiradi.", "author": "Motivatsiya"},
+    {"text": "Chiroyli so‘z — ko‘ngilga nur beradi.", "author": "Motivatsiya"},
+    {"text": "Muloqot — har qanday muammoning yechimi.", "author": "Motivatsiya"}
+  ],
+
+  "sad": [
+    {"text": "Ko‘z yosh — qalbning yengilligi.", "author": "Motivatsiya"},
+    {"text": "Qorong‘ilik yorug‘likni yorqinroq qiladi.", "author": "Motivatsiya"},
+    {"text": "Hamma og‘riq vaqtinchalik.", "author": "Motivatsiya"},
+    {"text": "Eng kuchlilar — eng ko‘p sinovdan o‘tganlar.", "author": "Motivatsiya"},
+    {"text": "G‘am — o‘tkinchi, kuch — doimiy.", "author": "Motivatsiya"},
+    {"text": "Har tunning ertalabi bor.", "author": "Motivatsiya"}
+  ]
+}

@@ -1,105 +1,41 @@
 {
   "positive": [
-    {"text": "Har kun — yangi imkoniyat.", "author": "Noma'lum"},
-    {"text": "Tabassum hech narsa olmaydi, ammo ko‘p narsani o‘zgartiradi.", "author": "Motivatsiya"},
-    {"text": "Tirik ekaning — hammasi mumkin degani.", "author": "Hayot"},
-    {"text": "Yaxshi fikr — yaxshi voqealarni tortadi.", "author": "Noma'lum"},
-    {"text": "Sen uddalaysan. Har doim uddalaganingdek.", "author": "Motivatsiya"},
-    {"text": "Hech qachon kech emas — boshlash uchun.", "author": "Ichki kuch"},
-    {"text": "Baxt — tanlov.", "author": "Falsafa"},
-    {"text": "Hayot sening tabassumingga javob beradi.", "author": "Noma'lum"},
-    {"text": "Yaxshilik qil — qaytadi.", "author": "Maqol"},
-    {"text": "Har kun kichik g‘alaba.", "author": "Motivatsiya"}
+    {"text": "Har kun — hayotni o‘zgartirish uchun yangi imkon.", "author": "Noma'lum"},
+    {"text": "Sen o‘ylagandan kuchliroqsan.", "author": "Noma'lum"}
   ],
 
   "love": [
-    {"text": "Sevgi — boshqaning baxtini o‘zingdan ustun qo‘yishdir.", "author": "Noma'lum"},
-    {"text": "Haqiqiy sevgi mukammallik talab qilmaydi.", "author": "Psixologiya"},
-    {"text": "Sevgi bor joy — uy bor joy.", "author": "Maqol"},
-    {"text": "Biz sevamiz — shuning uchun emas, shunga qaramay.", "author": "Koelyo"},
-    {"text": "Sevgan inson seni yaxshiroq qiladi.", "author": "Motivatsiya"},
-    {"text": "Yurak biladi — aql tushunmaydi.", "author": "Noma'lum"},
-    {"text": "Sevgi — ichki nur.", "author": "Falsafa"},
-    {"text": "Sevgan payt — sukunatni ham eshitasan.", "author": "Romantika"},
-    {"text": "Sevgi — eng go‘zal tuyg‘u.", "author": "Noma'lum"},
-    {"text": "Eng kuchli sevgi — sokin sevgi.", "author": "Maqol"}
+    {"text": "Muhabbat bizni yanada yaxshi qiladi.", "author": "Noma'lum"},
+    {"text": "Haqiqiy sevgi mukammallik talab qilmaydi.", "author": "Noma'lum"}
   ],
 
   "self_love": [
-    {"text": "O‘zingni sev — dunyo seni sevadi.", "author": "Motivatsiya"},
-    {"text": "Sen — eng katta resursing.", "author": "Psixologiya"},
-    {"text": "O‘zini hurmat qilish — har bir muvaffaqiyatning boshlanishi.", "author": "Maqol"},
-    {"text": "O‘zingga g‘amxo‘rlik — bu egoizm emas.", "author": "Psixologiya"},
-    {"text": "Sen eng yaxshisiga loyiqsan.", "author": "Noma'lum"},
-    {"text": "O‘zing bilan do‘stday gaplash.", "author": "Motivatsiya"},
-    {"text": "O‘zingni qabul qil — shunda erkin bo‘lasan.", "author": "Falsafa"},
-    {"text": "O‘zini sevish — ishonchning poydevori.", "author": "Psixologiya"},
-    {"text": "Tinchlik — o‘zini sevishdan boshlanadi.", "author": "Maqol"},
-    {"text": "Sen — muhimsan.", "author": "Motivatsiya"}
+    {"text": "Avval o‘zingni sev — dunyo shunda javob qaytaradi.", "author": "Noma'lum"},
+    {"text": "Sen yaxshi narsalarga loyiqsan.", "author": "Noma'lum"}
   ],
 
   "strength": [
-    {"text": "Kuch — yengish orqali keladi.", "author": "Noma'lum"},
-    {"text": "Qiyin vaqtlar seni kuchli qiladi.", "author": "Maqol"},
-    {"text": "Har qadam — g‘alaba.", "author": "Motivatsiya"},
-    {"text": "Taslim bo‘lmagan — allaqachon yutgan.", "author": "Falsafa"},
-    {"text": "Og‘ir — o‘sayotganing belgisi.", "author": "Hayot"},
-    {"text": "Sekin yur — lekin to‘xta-ma.", "author": "Xitoy maqoli"},
-    {"text": "Sen o‘ylaganingdan kuchliroqsan.", "author": "Motivatsiya"},
-    {"text": "Haqiqiy kuch — xotirjamlikdir.", "author": "Zen"},
-    {"text": "Avval og‘riq — keyin kuch.", "author": "Sport"},
-    {"text": "Har kuni oz-ozdan — natija katta bo‘ladi.", "author": "Noma'lum"}
+    {"text": "Kuch — taslim bo‘lginday tuyulgan paytda tug‘iladi.", "author": "Noma'lum"},
+    {"text": "Qiyinchiliklar seni yanada kuchli qiladi.", "author": "Noma'lum"}
   ],
 
   "life": [
-    {"text": "Hayot — harakat.", "author": "Aristotel"},
-    {"text": "Shoshma — lazzatni his qil.", "author": "Noma'lum"},
-    {"text": "Hayotning ma’nosi — yashash.", "author": "Falsafa"},
-    {"text": "Yuraging yengil joyda bo‘l.", "author": "Hayot"},
-    {"text": "Yashashning o‘zi — yutuq.", "author": "Motivatsiya"},
-    {"text": "Fikrlar — haqiqatni yaratadi.", "author": "Falsafa"},
-    {"text": "Bugun — eng yaxshi kun.", "author": "Noma'lum"},
-    {"text": "O‘tgan o‘tdi — hozirni yashagin.", "author": "Maqol"},
-    {"text": "Go‘zallikni ko‘ra bil.", "author": "Noma'lum"},
-    {"text": "Baxt — oddiylikda.", "author": "Falsafa"}
+    {"text": "Hayot — yo‘l, manzil emas.", "author": "Noma'lum"},
+    {"text": "Bitta fikr hammasini o‘zgartirishi mumkin.", "author": "Noma'lum"}
   ],
 
   "calm": [
-    {"text": "Xotirjamlik — super kuch.", "author": "Zen"},
-    {"text": "Chuqur nafas ol — o‘tib ketadi.", "author": "Psixologiya"},
-    {"text": "Ichki tinchlikni saqla.", "author": "Falsafa"},
-    {"text": "Sukunat shifo beradi.", "author": "Noma'lum"},
-    {"text": "Tinchlik — zamonaviy hashamat.", "author": "Maqol"},
-    {"text": "Qo‘yib yuborishni o‘rgan.", "author": "Zen"},
-    {"text": "Xotirjam ong — baxtli hayot.", "author": "Motivatsiya"},
-    {"text": "Tinch joy — tinch qalb.", "author": "Noma'lum"},
-    {"text": "Sekinlash. Nafas ol.", "author": "Motivatsiya"},
-    {"text": "Shoshilma — yashashni boshlaysan.", "author": "Falsafa"}
+    {"text": "Sukunat ham javob.", "author": "Noma'lum"},
+    {"text": "Tinchlik ichingdan boshlanadi.", "author": "Noma'lum"}
   ],
 
   "relationships": [
-    {"text": "Munozabat — hurmatdan boshlanadi.", "author": "Psixologiya"},
-    {"text": "Halol gapir, diqqat bilan tingla.", "author": "Maqol"},
-    {"text": "Toksiklik — sevgi emas.", "author": "Psixologiya"},
-    {"text": "Yonida qolganlarni qadrlagin.", "author": "Noma'lum"},
-    {"text": "Ishonch — asos.", "author": "Falsafa"},
-    {"text": "Tushunish — bahslashishdan muhim.", "author": "Maqol"},
-    {"text": "Talab qilma — namuna bo‘l.", "author": "Psixologiya"},
-    {"text": "Sevgi — harakatdir.", "author": "Noma'lum"},
-    {"text": "Haqiqat — go‘zal so‘zlardan muhim.", "author": "Maqol"},
-    {"text": "Munozabat — bu ikki inson, bir emas.", "author": "Psixologiya"}
+    {"text": "Mustahkam munosabatlar ishonchga quriladi.", "author": "Noma'lum"},
+    {"text": "Muhimi — atrofingdagi odamlar sifati.", "author": "Noma'lum"}
   ],
 
   "sad": [
-    {"text": "Bu ham o‘tadi.", "author": "Maqol"},
-    {"text": "Ko‘z yosh — kuch, zaiflik emas.", "author": "Psixologiya"},
-    {"text": "Og‘riq — tiriklik belgisi.", "author": "Falsafa"},
-    {"text": "Yiqilish — normal. Turish — muhim.", "author": "Motivatsiya"},
-    {"text": "Tuman ham tarqaladi.", "author": "Tabiat"},
-    {"text": "Vaqt hamma narsani davolaydi.", "author": "Maqol"},
-    {"text": "Yig‘la — bu yengillik beradi.", "author": "Psixologiya"},
-    {"text": "Har tun — tong bilan tugaydi.", "author": "Noma'lum"},
-    {"text": "Sukunat ham og‘riydi.", "author": "Motivatsiya"},
-    {"text": "Sen uddalaysan. Sen kuchlisan.", "author": "Maqol"}
+    {"text": "Ko‘z yosh — zaiflik emas. Bu mustahkamlik sari qadam.", "author": "Noma'lum"},
+    {"text": "Eng qorong‘i vaqt — tong oldidan bo‘ladi.", "author": "Noma'lum"}
   ]
 }
